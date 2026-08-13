@@ -16,8 +16,7 @@ I'm an Information Technology undergrad at the Government College of Engineering
 *   👯 Mentoring and preparing materials for a junior Data Structures and Algorithms (DSA) study group.
 *   🎨 Bringing creativity to tech: Designed the official logo for the **Robotrix Club**.
 *   🏆 Active in the hackathon space: Finalist at **HackWithUttarPradesh 2025** and qualified for the **TechConnect** abstract round.
-*   🚀 Candidate for the **Google Gemini Student Ambassador 2026** program.
-*   ⚡ Fun fact: When I'm not coding or designing, I'm editing and sharing funny, relatable digital content!
+
 
 ---
 
