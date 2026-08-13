@@ -1,34 +1,56 @@
 # about-me-
-# Hi, I'm Rajanya Maity 👋
+# Hi there, I'm Rajanya Maity 👋
 
 <p align="center">
-  <em>Crafting pixel-perfect frontend experiences, intuitive mobile UIs, and robust solutions.</em>
+  <a href="https://linkedin.com/in/rajanya-maity"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:maityrajanya2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Rajanya_Maity"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://x.com/maity_ajanya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
+
+<h3 align="center">Frontend Developer | Information Technology Undergrad | Problem Solver</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm an Information Technology undergrad at the Government College of Engineering and Leather Technology. I thrive at the intersection of design and code, specializing in frontend development while actively exploring mobile application UI/UX optimization. Whether I'm designing threat-detection interfaces or helping juniors grasp complex concepts, I love building things that make an impact.
+I'm an Information Technology engineering student at the Government College of Engineering and Leather Technology, focusing deeply on frontend development and software engineering. I enjoy turning complex logic into clean, interactive web experiences and hold a strong foundation in Data Structures and Algorithms.
 
-*   🔭 Currently building **ElderGuard** — a digital fraud threat-scanning application concept.
-*   🌱 Honing my edge in **HTML, CSS, and JavaScript**, while mapping out clean mobile app layouts.
-*   👯 Mentoring and preparing materials for a junior Data Structures and Algorithms (DSA) study group.
-*   🎨 Bringing creativity to tech: Designed the official logo for the **Robotrix Club**.
-*   🏆 Active in the hackathon space: Finalist at **HackWithUttarPradesh 2025** and qualified for the **TechConnect** abstract round.
+*   🔭 Currently working on **ElderGuard**, a digital fraud threat-scanning application concept, and continuously building new web experiences.
+*   🌱 Sharpening my frontend edge in **HTML, CSS, and JavaScript**, alongside core problem-solving in **C, C++, and Python**.
+*   👯 Mentoring juniors by preparing materials and teaching core **Data Structures and Algorithms (DSA)** concepts.
+*   🏆 **Winner of the GDG 30 Days DSA Challenge** and Finalist at **HackWithUttarPradesh 2025**.
+*   🚀 Active in the developer community: Participated in the **GDG Solution Challenge 2025 Bootcamp** and the **Hello World Hack**.
+*   ⚡ Fun fact: When I'm not writing code, I love creating, editing, and sharing relatable digital content!
 
+---
+
+### 🚀 Featured Projects
+
+*   **Untold Storytelling Platform**: A secure, anonymous web application built for users to share personal experiences safely, featuring integrated support resources and interactive frontend elements.
+*   **Visual Art Gallery Website**: An interactive platform for exploring ancient art, buying/selling artwork, and attending virtual workshops.
+*   **Drug Discovery using Generative AI**: A deep-learning research project designed to predict potential drug compounds and accelerate discovery.
+*   **Fun Facts in Tech**: A clean, frontend-focused project that displays surprising educational tech facts.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<!-- You can add markdown badges here for your tools. For example: -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<p align="center">
+  <!-- These icons will automatically render based on the skill names -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,sql,git,github,vscode" alt="Rajanya's Tech Stack" />
+  </a>
+</p>
 
 ---
 
-### 📫 Let's Connect
-<!-- Replace the links with your actual URLs -->
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com) | [Email](mailto:your-email@example.com)
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Replace 'yourusername' if your exact GitHub handle is different than rajanyamaity -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rajanyamaity&show_icons=true&theme=radical&hide_border=true" alt="Rajanya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanyamaity&theme=radical&hide_border=true" alt="Rajanya's GitHub Streak" width="48%" />
+</p>
+
+
